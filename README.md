@@ -1,4 +1,7 @@
+&theme=dracula
+
 ## sobre mim
+
 nome:
   Athos Arnour Leal
 curso:
