@@ -1,20 +1,20 @@
-## sobre mim
+# sobre mim
 
-# nome:
+## nome:
   Athos Arnour Leal
-# curso:
+## curso:
   Ciencia da computação - cesupa(CC1MA - sub A)
-# interesses:
+## interesses:
   automação, banco de dados e construção/programação de computadores basicos(8 bit)
-# linguagens:
+## linguagens:
   java, applesoft basic(computador apple II) e C(ainda aprendendo)
 
-## about me
-# name:
+# about me
+## name:
   Athos Arnour Leal
-# major:
+## major:
   computer science - cesupa(CC1MA - sub A)
-# interests:
+## interests:
   automation, database coding and programing/constructing basic computers(8 bit)
 languages:
   java, applesoft basic(apple II computer) and C(still learning)
