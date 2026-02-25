@@ -16,6 +16,6 @@
   computer science - cesupa(CC1MA - sub A)
 ## interests:
   automation, database coding and programing/constructing basic computers(8 bit)
-languages:
+##languages:
   java, applesoft basic(apple II computer) and C(still learning)
   
