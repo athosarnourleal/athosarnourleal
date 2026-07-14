@@ -7,4 +7,4 @@
 ## interesses:
   automação, banco de dados e construção/programação de computadores basicos(8 bit)
 ## linguagens:
-  java, applesoft basic(computador apple II) e C(ainda aprendendo)
+  java, applesoft basic(para computadores apple II) e C(intermediário)
