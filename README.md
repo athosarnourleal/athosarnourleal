@@ -1,10 +1,9 @@
 # sobre mim
-
-## nome:
+### nome
   Athos Arnour Leal
-## curso:
-  Ciencia da computação - cesupa(CC1MA - sub A)
-## interesses:
+### curso
+  Ciencia da computação - cesupa
+### interesses
   automação, banco de dados e construção/programação de computadores basicos(8 bit)
-## linguagens:
-  java, python, applesoft basic(para computadores apple II) e C(intermediário)
+### linguagens
+  `java`, `python`, `applesoft basic(intermediario)`, `C(intermediário)` e `assembly(básico)`
