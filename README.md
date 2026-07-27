@@ -4,6 +4,6 @@
 ### curso
   Ciencia da computação - cesupa
 ### interesses
-  automação, banco de dados e construção/programação de computadores basicos(8 bit)
+  automação, IA, banco de dados e programação low-level
 ### linguagens
-  `java`, `python`, `applesoft basic(intermediario)`, `C(intermediário)` e `assembly(básico)`
+  `java`, `python`, `applesoft basic`, `C` e `assembly`
