@@ -5,5 +5,5 @@
   Ciencia da computação - cesupa
 ### interesses
   automação, IA, banco de dados e programação low-level
-### linguagens
+### linguagens de programação conhecida
   `java`, `python`, `applesoft basic`, `C` e `assembly`
