@@ -6,4 +6,4 @@
 ### interesses
   automação, IA, banco de dados e programação low-level
 ### linguagens de programação conhecida
-  `java`, `python`, `applesoft basic`, `C++`, `C` e `assembly`
+  `java`, `python`, `applesoft basic`, `C++`, `C` e `assembly(básico)`
